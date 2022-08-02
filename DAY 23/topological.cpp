@@ -25,5 +25,4 @@ public:
 	    return ans;
 	}
 };
-Footer
-© 2022 GitHub, Inc.
+
